@@ -4,7 +4,7 @@ This is a repository that houses all the backdoor shells created by the 22Xploit
 
 List of backdoor shells : 
 -----------------------
-## Mini Shell Backdoor v1.2
+- ## Mini Shell Backdoor v1.2
 ### Feature
 - Rename
 - Edit
@@ -12,7 +12,6 @@ List of backdoor shells :
 - Make Directory And File
 - Upload File
 - Command
-
 ### Advantages
 - Responsive Style
 - Cannot be indexed by google or searched by other hackers
