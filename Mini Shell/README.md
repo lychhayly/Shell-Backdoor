@@ -1,4 +1,4 @@
-# Mini Shell Backdoor v1.2
+# Mini Shell Backdoor
 ### Feature
 - Rename
 - Edit
